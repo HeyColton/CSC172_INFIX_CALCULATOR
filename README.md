@@ -1,0 +1,2 @@
+# CSC172_INFIX_CALCULATOR
+All classes except INFIX_CALCULATOR are cited from previous labs. INFIX_CALCULATOR is the main program of this project. At the bottom of INFIX_CALCULATOR, you can see my main method. My project can do all the operations including extra credits !, sin, cos and tan. Any unrecognized expression and logical error will be warned. In my main method, you can choose any test document to test my program. After running, you can compare my-eval.txt with target files in p1, p2 or postfix_eval_short.txt.
